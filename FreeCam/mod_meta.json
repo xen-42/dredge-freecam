@@ -1,0 +1,8 @@
+{
+	"Name": "Dredge Free Cam",
+	"ModGUID": "xen.FreeCam",
+	"Version": "1.0.0",
+	"ModAssembly": "FreeCam.dll",
+	"MinWinchVersion": "0.2.3",
+	"Entrypoint": "FreeCam.Loader/Initialize"
+}
