@@ -2,7 +2,7 @@
 
 ![image](https://github.com/xen-42/dredge-freecam/assets/22628069/c0fc4962-ef05-43fb-b177-6a41157b219b)
 
-Toggle the debug freecam by pressing 0 on your keyboard!
+Toggle the debug free cam by pressing 0 on your keyboard!
 
 Other commands:
 
